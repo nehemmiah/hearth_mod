@@ -10,7 +10,7 @@
     <version>2025.1</version>
 
     <!-- These links wire up the new version available alert in Mod Manager -->
-    <!--
-    <manifestUri>https://raw.githubusercontent.com/AngleWyrm10/HelloWorld/master/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/AngleWyrm10/HelloWorld/releases/latest</downloadUri> -->
+
+    <manifestUri>https://raw.githubusercontent.com/nehemmiah/hearth_mod/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/nehemmiah/hearth_mod/releases/latest</downloadUri>
 </Manifest>
