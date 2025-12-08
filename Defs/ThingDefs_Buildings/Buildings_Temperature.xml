@@ -55,7 +55,7 @@
     <comps>
       <li Class="CompProperties_Refuelable">
         <fuelConsumptionRate>7.0</fuelConsumptionRate>
-        <fuelCapacity>35.0</fuelCapacity>
+        <fuelCapacity>45.0</fuelCapacity>
         <fuelConsumptionPerTickInRain>0.0012</fuelConsumptionPerTickInRain>
         <fuelFilter>
           <thingDefs>
