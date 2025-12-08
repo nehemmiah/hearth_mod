@@ -55,7 +55,7 @@
     <comps>
       <li Class="CompProperties_Refuelable">
         <fuelConsumptionRate>3.0</fuelConsumptionRate>
-        <fuelCapacity>90.0</fuelCapacity>
+        <fuelCapacity>45.0</fuelCapacity>
         <fuelConsumptionPerTickInRain>0.0012</fuelConsumptionPerTickInRain>
         <fuelFilter>
           <thingDefs>
@@ -72,8 +72,8 @@
       </li>
       <li Class="CompProperties_HeatPusher">
         <compClass>CompHeatPusherPowered</compClass>
-        <heatPerSecond>25</heatPerSecond>
-        <heatPushMaxTemperature>30</heatPushMaxTemperature>
+        <heatPerSecond>21</heatPerSecond>
+        <heatPushMaxTemperature>28</heatPushMaxTemperature>
       </li>
       <li Class="CompProperties_FireOverlay">
         <fireSize>1.10</fireSize>
