@@ -44,8 +44,6 @@
     </stuffCategories>
     <coversFloor>true</coversFloor>
     <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
-    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
-    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
     <placeWorkers>
       <li>PlaceWorker_Heater</li>
       <li>PlaceWorker_GlowRadius</li>
